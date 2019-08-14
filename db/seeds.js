@@ -89,8 +89,9 @@ mongoose.connect(dbURI, { useNewUrlParser: true, useCreateIndex: true }, (err, d
           end: new Date(2019, 6, 31),
           allDay: true,
           resource: 'https://github.com/Lily-La-Day/project-four',
-          gist: 'Lily-La-Day/78b46bfb20a0addfa2341cb8da94f03a',
-          url: 'http://lily-la-day.com/'
+          gist: 'Lily-La-Day/f171a5f3ab3f243eafec4789e68cce56',
+          url: 'https://am-i-write.herokuapp.com/'
+
 
 
         },
@@ -101,8 +102,8 @@ mongoose.connect(dbURI, { useNewUrlParser: true, useCreateIndex: true }, (err, d
           end: new Date(2019, 7, 3),
           allDay: true,
           resource: 'https://github.com/Lily-La-Day/sei-project-one-tetris/blob/master/scripts/take-two.js',
-          gist: 'Lily-La-Day/f171a5f3ab3f243eafec4789e68cce56',
-          url: 'http://lily-la-day.com/'
+          gist: 'Lily-La-Day/7b10218f751069397c48f8a8922cc92f',
+          url: 'https://lily-la-day.github.io/sei-project-one-tetris/'
 
         },
         {
@@ -112,8 +113,8 @@ mongoose.connect(dbURI, { useNewUrlParser: true, useCreateIndex: true }, (err, d
           end: new Date(2019, 7, 12),
           allDay: true,
           resource: 'https://github.com/Lily-La-Day/lily-la-day',
-          gist: 'Lily-La-Day/f171a5f3ab3f243eafec4789e68cce56',
-          url: 'https://am-i-write.herokuapp.com/'
+          gist: 'Lily-La-Day/78b46bfb20a0addfa2341cb8da94f03a',
+          url: 'http://lily-la-day.com/'
 
 
         },
@@ -125,7 +126,7 @@ mongoose.connect(dbURI, { useNewUrlParser: true, useCreateIndex: true }, (err, d
           allDay: true,
           resource: 'https://github.com/Lily-La-Day/bang-employed',
           gist: 'Lily-La-Day/c1ab64d20357e4dc199676a9b33afe34',
-          url: 'http://localhost:8000/'
+          url: 'www.bang-employed.com'
 
 
         }
