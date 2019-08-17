@@ -105,4 +105,4 @@ At this point you may be wondering what the point of this is. I have essentially
 
 Well you are right to wonder about this as essentially there is no point. I just wanted to make a database as I like databases and want the practice. So that's it. 
 
-(Oh and I haven't yet worked out how/if it's possible to change the format of these gist snippets displayed here so sorry about the weird central alignment and unnecassary heavy font-weight. I will work on this but bear in mind that thing I said before about styling.)
+
